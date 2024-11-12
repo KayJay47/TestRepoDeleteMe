@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRepoDeleteMe", "TestRepoDeleteMe\TestRepoDeleteMe.csproj", "{1433D5B4-6BF5-44AC-9704-9BD5079A6C5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1433D5B4-6BF5-44AC-9704-9BD5079A6C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1433D5B4-6BF5-44AC-9704-9BD5079A6C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1433D5B4-6BF5-44AC-9704-9BD5079A6C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1433D5B4-6BF5-44AC-9704-9BD5079A6C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3105748E-7380-4B06-90D5-6F25B3085054}
+	EndGlobalSection
+EndGlobal
